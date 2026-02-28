@@ -22,7 +22,7 @@ export class GalleryService {
       id: 'hero-2',
       title: 'Color Stories That Pop',
       subtitle: 'Bold palettes inspired by New York and LA.',
-      imageUrl: '/images/men-suit-2.png',
+      imageUrl: '/images/Ramadan-suit-swiper.png',
     },
     {
       id: 'hero-3',
